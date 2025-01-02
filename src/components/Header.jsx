@@ -1,3 +1,5 @@
+import styled from "styled-components";
+
 export default function Header() {
   return (
     <header className="header-container">
@@ -10,3 +12,4 @@ export default function Header() {
     </header>
   );
 }
+Styled-Components란?
