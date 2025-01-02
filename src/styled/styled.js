@@ -12,7 +12,7 @@ export const flexMixin = ({
     flex-direction: ${direction};
     justify-content: ${justify};
     align-items: ${align};
-    gap: ${gap};
+    gap: ${gap}px;
     flex-wrap: ${wrap};
     `  ;
     
